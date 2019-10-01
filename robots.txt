@@ -1,0 +1,2 @@
+﻿User-agent: *
+Sitemap: http://pavelfilll.itsinsta.site//sitemap.xml
